@@ -1,5 +1,5 @@
 # Web-Scraping
-# 🎯Objective: " 📚I'm thrilled to share that I've recently delved into the fascinating world of web scraping with BeautifulSoup! 🌐💻🐍"
+# 🎯Objective: I've recently delved into the fascinating world of web scraping with BeautifulSoup! 🌐💻🐍
 
 - 🔍 Web scraping is a powerful technique used to extract data from websites, enabling us to gather valuable information for analysis and insights. 
 - 📊💡 BeautifulSoup, a Python library, serves as an incredible tool in this endeavor, providing a user-friendly interface for parsing HTML and XML documents effortlessly. 🐍
